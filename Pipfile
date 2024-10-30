@@ -8,6 +8,11 @@ jupyterlab = "*"
 pycaret = {ref = "master", git = "git+https://github.com/pycaret/pycaret.git"}
 kaggle = "*"
 lightning = "*"
+tensorboard = "*"
+category-encoders = "*"
+ydata-profiling = "*"
+sweetviz = "*"
+feature-engine = "*"
 
 [dev-packages]
 
